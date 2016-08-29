@@ -16,5 +16,5 @@ About bot:
 
 
 Help us by donating (for more new features/Ad-free version):
-paypal.me/Developerm77
+https://www.paypal.me/Developerm77
 
