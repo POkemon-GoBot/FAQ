@@ -11,6 +11,7 @@ About bot:
 
 1. Whenever you change any setting or route ....restart bot (stop and start again) for new settings.
 2. If Pokemon Bag/Item Bag dont show pokemons/items correctly....restart bot again.
+3. You can make new path using Full Screen Map or use custom route from Settings.
 3. For any help ...contact us at pokemongobotm77@gmail.com
 
 
