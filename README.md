@@ -15,6 +15,8 @@ About bot:
 3. For any help ...contact us at pokemongobotm77@gmail.com
 
 
+Note: Report a bug by creating new issue ....it will be fixed in next release.
+
 Help us by donating (for more new features/Ad-free version):
 https://www.paypal.me/Developerm77
 
