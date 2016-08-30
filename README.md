@@ -18,5 +18,5 @@ About bot:
 Note: Report a bug by creating new issue ....it will be fixed in next release.
 
 Help us by donating (for more new features/Ad-free version):
-https://www.paypal.me/Developer
+contact us at pokemongobotm77@gmail.com with subject "Donation" and with details.
 
